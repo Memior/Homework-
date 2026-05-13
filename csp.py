@@ -4,7 +4,7 @@ import random
 import logging
 import networkx as nx
 import matplotlib.pyplot as plt
-
+#shfosafd
 # 是否输出执行日志
 LOG = True
 
